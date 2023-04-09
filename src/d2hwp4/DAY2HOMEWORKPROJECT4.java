@@ -7,6 +7,6 @@ public class DAY2HOMEWORKPROJECT4 {
 	public void print(String a ) {
 		a = "stash this";
 		System.out.println(a);
-		System.out.println("nothing");
+		System.out.println("");
 	}
 }
